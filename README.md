@@ -28,3 +28,5 @@ A Remote Administration Tool
 I would love to test out Quasar, but I don't have a free computer that isn't monitored.
 
 Thanks for reading my README.md, have a good one.
+
+also sorry that it looks bad i dont know how to list shit yet
